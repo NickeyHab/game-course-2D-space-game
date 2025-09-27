@@ -1,0 +1,855 @@
+fileFormatVersion: 2
+guid: 08701d9aa0eb5ec46b8098930133038e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3127690101131697304
+    second: heavenly bullets transparent_0
+  - first:
+      213: 4928701333647814380
+    second: heavenly bullets transparent_1
+  - first:
+      213: -6171789072156793240
+    second: heavenly bullets transparent_2
+  - first:
+      213: 1107766092706543059
+    second: heavenly bullets transparent_3
+  - first:
+      213: -5946087534442657730
+    second: heavenly bullets transparent_4
+  - first:
+      213: 2796460765387434865
+    second: heavenly bullets transparent_5
+  - first:
+      213: 872039449046488069
+    second: heavenly bullets transparent_6
+  - first:
+      213: 1227111883058040473
+    second: heavenly bullets transparent_7
+  - first:
+      213: 2181625518812943375
+    second: heavenly bullets transparent_8
+  - first:
+      213: 8645423814897568095
+    second: heavenly bullets transparent_9
+  - first:
+      213: -3015289425994606462
+    second: heavenly bullets transparent_10
+  - first:
+      213: -6065590664646257271
+    second: heavenly bullets transparent_11
+  - first:
+      213: -4749364598963866956
+    second: heavenly bullets transparent_12
+  - first:
+      213: -5864579796290350556
+    second: heavenly bullets transparent_13
+  - first:
+      213: -1566910269215098799
+    second: heavenly bullets transparent_14
+  - first:
+      213: -8502138768128335206
+    second: heavenly bullets transparent_15
+  - first:
+      213: 1091090658418547756
+    second: heavenly bullets transparent_16
+  - first:
+      213: 1796769186872292084
+    second: heavenly bullets transparent_17
+  - first:
+      213: -5968700047449967138
+    second: heavenly bullets transparent_18
+  - first:
+      213: 4066317243411968130
+    second: heavenly bullets transparent_19
+  - first:
+      213: -5694658092894235413
+    second: heavenly bullets transparent_20
+  - first:
+      213: -576913062657079246
+    second: heavenly bullets transparent_21
+  - first:
+      213: 2039625045345078091
+    second: heavenly bullets transparent_22
+  - first:
+      213: 6384741753977386268
+    second: heavenly bullets transparent_23
+  - first:
+      213: -8002914207333716500
+    second: heavenly bullets transparent_24
+  - first:
+      213: 5501129935583807695
+    second: heavenly bullets transparent_25
+  - first:
+      213: 8975990622476240491
+    second: heavenly bullets transparent_26
+  - first:
+      213: 1009990972115040066
+    second: heavenly bullets transparent_27
+  - first:
+      213: 4024004905662739623
+    second: heavenly bullets transparent_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heavenly bullets transparent_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 832
+        width: 175
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cd5756399c76b20800000000000000
+      internalID: 3127690101131697304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 849
+        width: 148
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee6214efb3466440800000000000000
+      internalID: 4928701333647814380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 829
+        width: 163
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866e475d986695aa0800000000000000
+      internalID: -6171789072156793240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_3
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 859
+        width: 167
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5fef164639f5f00800000000000000
+      internalID: 1107766092706543059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_4
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 912
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38ca2224e04b7da0800000000000000
+      internalID: -5946087534442657730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_5
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 847
+        width: 121
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b2c35ff360fc620800000000000000
+      internalID: 2796460765387434865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 688
+        width: 128
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5041b86324b1a1c00800000000000000
+      internalID: 872039449046488069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 639
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ec55191c3970110800000000000000
+      internalID: 1227111883058040473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_8
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 640
+        width: 156
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04d5c1c9d0b64e10800000000000000
+      internalID: 2181625518812943375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 631
+        width: 165
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f590cab7727baf770800000000000000
+      internalID: 8645423814897568095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_10
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 636
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28899942e3a8726d0800000000000000
+      internalID: -3015289425994606462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_11
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 656
+        width: 140
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98595d86d61b2dba0800000000000000
+      internalID: -6065590664646257271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 439
+        width: 147
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b271f97f0ed61eb0800000000000000
+      internalID: -4749364598963866956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 432
+        width: 127
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4225e254fb3dc9ea0800000000000000
+      internalID: -5864579796290350556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_14
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 416
+        width: 177
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158b5887967314ae0800000000000000
+      internalID: -1566910269215098799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_15
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 435
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9222ae26d5520a80800000000000000
+      internalID: -8502138768128335206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_16
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 464
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cd8c84c25542f00800000000000000
+      internalID: 1091090658418547756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_17
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 438
+        width: 140
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2f3e64e086fe810800000000000000
+      internalID: 1796769186872292084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 279
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed533ec2eeaea2da0800000000000000
+      internalID: -5968700047449967138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 243
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280bd951df57e6830800000000000000
+      internalID: 4066317243411968130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_20
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 235
+        width: 187
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be45cb7d2a288f0b0800000000000000
+      internalID: -5694658092894235413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_21
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 225
+        width: 163
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238ca0a40a46ef7f0800000000000000
+      internalID: -576913062657079246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_22
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 233
+        width: 152
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b88ce1c243e4c10800000000000000
+      internalID: 2039625045345078091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_23
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 245
+        width: 116
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c153d642cc82b9850800000000000000
+      internalID: 6384741753977386268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 31
+        width: 183
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced62fffdefefe090800000000000000
+      internalID: -8002914207333716500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_25
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 32
+        width: 140
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc88db9b780f75c40800000000000000
+      internalID: 5501129935583807695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 6
+        width: 195
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b660fef0aef119c70800000000000000
+      internalID: 8975990622476240491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_27
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 17
+        width: 178
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247b44f1075340e00800000000000000
+      internalID: 1009990972115040066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly bullets transparent_28
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 45
+        width: 130
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4f470442328d730800000000000000
+      internalID: 4024004905662739623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

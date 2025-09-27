@@ -1,0 +1,1405 @@
+fileFormatVersion: 2
+guid: d0874cfb8e0b6f347b6dc3158eb4a771
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1585843211446831599
+    second: heavenly spaceships_0
+  - first:
+      213: 6747168539609504475
+    second: heavenly spaceships_1
+  - first:
+      213: 4012708747936106071
+    second: heavenly spaceships_2
+  - first:
+      213: 5211739297156780469
+    second: heavenly spaceships_3
+  - first:
+      213: 4925514862862992584
+    second: heavenly spaceships_4
+  - first:
+      213: -3970342543690761646
+    second: heavenly spaceships_5
+  - first:
+      213: -6311990018805640869
+    second: heavenly spaceships_6
+  - first:
+      213: 8692789911869641126
+    second: heavenly spaceships_7
+  - first:
+      213: -3744361948984481300
+    second: heavenly spaceships_8
+  - first:
+      213: -8432034488398967427
+    second: heavenly spaceships_9
+  - first:
+      213: -314356242684105090
+    second: heavenly spaceships_10
+  - first:
+      213: -3969786361349160609
+    second: heavenly spaceships_11
+  - first:
+      213: -3717040766124894378
+    second: heavenly spaceships_12
+  - first:
+      213: 864905124255676384
+    second: heavenly spaceships_13
+  - first:
+      213: 2977342620233238783
+    second: heavenly spaceships_14
+  - first:
+      213: -6101695044363659790
+    second: heavenly spaceships_15
+  - first:
+      213: -5940356606352961457
+    second: heavenly spaceships_16
+  - first:
+      213: 1176765394872026205
+    second: heavenly spaceships_17
+  - first:
+      213: -4512893387905442248
+    second: heavenly spaceships_18
+  - first:
+      213: -1721672799311541338
+    second: heavenly spaceships_19
+  - first:
+      213: -860743491812546677
+    second: heavenly spaceships_20
+  - first:
+      213: 3998390496852579776
+    second: heavenly spaceships_21
+  - first:
+      213: -1023375917200832546
+    second: heavenly spaceships_22
+  - first:
+      213: 8396852651734682989
+    second: heavenly spaceships_23
+  - first:
+      213: -935627221497740891
+    second: heavenly spaceships_24
+  - first:
+      213: -1844083601285489731
+    second: heavenly spaceships_25
+  - first:
+      213: -394501494572096011
+    second: heavenly spaceships_26
+  - first:
+      213: -2384000199094149571
+    second: heavenly spaceships_27
+  - first:
+      213: 1130727072518561106
+    second: heavenly spaceships_28
+  - first:
+      213: -8673707303261728495
+    second: heavenly spaceships_29
+  - first:
+      213: 4508707313207164261
+    second: heavenly spaceships_30
+  - first:
+      213: -2160178571812615625
+    second: heavenly spaceships_31
+  - first:
+      213: -951531494446855367
+    second: heavenly spaceships_32
+  - first:
+      213: -5241056288100863990
+    second: heavenly spaceships_33
+  - first:
+      213: -193104101562247051
+    second: heavenly spaceships_34
+  - first:
+      213: 8729912346504313383
+    second: heavenly spaceships_35
+  - first:
+      213: -7401024954506278326
+    second: heavenly spaceships_36
+  - first:
+      213: -8275604572285787825
+    second: heavenly spaceships_37
+  - first:
+      213: -1126679892508668726
+    second: heavenly spaceships_38
+  - first:
+      213: -2185787343388400985
+    second: heavenly spaceships_39
+  - first:
+      213: 8912345124136121471
+    second: heavenly spaceships_40
+  - first:
+      213: -4698609993356970061
+    second: heavenly spaceships_41
+  - first:
+      213: -1130781433181874038
+    second: heavenly spaceships_42
+  - first:
+      213: -3194254319385774661
+    second: heavenly spaceships_43
+  - first:
+      213: 1315583398361414518
+    second: heavenly spaceships_44
+  - first:
+      213: 3605204738423822970
+    second: heavenly spaceships_45
+  - first:
+      213: 8667608051683141058
+    second: heavenly spaceships_46
+  - first:
+      213: 2962650079327191735
+    second: heavenly spaceships_47
+  - first:
+      213: 6428981796597043748
+    second: heavenly spaceships_48
+  - first:
+      213: -2105627422550487880
+    second: heavenly spaceships_49
+  - first:
+      213: -4669544673192564456
+    second: heavenly spaceships_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heavenly spaceships_0
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1003
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1163f385004fdf9e0800000000000000
+      internalID: -1585843211446831599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 860
+        width: 156
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda9d1be902c2ad50800000000000000
+      internalID: 6747168539609504475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_2
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1000
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75685d3985100b730800000000000000
+      internalID: 4012708747936106071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1017
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b159fc1741d35840800000000000000
+      internalID: 5211739297156780469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_4
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 858
+        width: 161
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c40bd8dba1fa5440800000000000000
+      internalID: 4925514862862992584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 865
+        width: 148
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25af0b60e7286e8c0800000000000000
+      internalID: -3970342543690761646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 857
+        width: 178
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51574f258e4768a0800000000000000
+      internalID: -6311990018805640869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 998
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1d6145e5ef2a870800000000000000
+      internalID: 8692789911869641126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_8
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 864
+        width: 151
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce96a4855aa590cc0800000000000000
+      internalID: -3744361948984481300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_9
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 881
+        width: 148
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d0321ce456bfa80800000000000000
+      internalID: -8432034488398967427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 693
+        width: 156
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e23eda9ae23abf0800000000000000
+      internalID: -314356242684105090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 701
+        width: 174
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51c791565c78e8c0800000000000000
+      internalID: -3969786361349160609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_12
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 722
+        width: 65
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657da7fed1b6a6cc0800000000000000
+      internalID: -3717040766124894378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_13
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 695
+        width: 108
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7bca7c0a2c00c00800000000000000
+      internalID: 864905124255676384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_14
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 722
+        width: 64
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff802a5a655a15920800000000000000
+      internalID: 2977342620233238783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_15
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 683
+        width: 182
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f551f07fac625ba0800000000000000
+      internalID: -6101695044363659790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_16
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 682
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40df2fc32d9f8da0800000000000000
+      internalID: -5940356606352961457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_17
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 707
+        width: 114
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54c15154e5b45010800000000000000
+      internalID: 1176765394872026205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_18
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 820
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83edfa0cf5bfe51c0800000000000000
+      internalID: -4512893387905442248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_19
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 740
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab4599f5b36b18e0800000000000000
+      internalID: -1721672799311541338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 523
+        width: 145
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87a8c7ca560e04f0800000000000000
+      internalID: -860743491812546677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 521
+        width: 122
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c51236f8f22d7730800000000000000
+      internalID: 3998390496852579776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_22
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 515
+        width: 162
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed70e8f760d3cc1f0800000000000000
+      internalID: -1023375917200832546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_23
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 584
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d41f19ffc978470800000000000000
+      internalID: 8396852651734682989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 541
+        width: 170
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1017ccffbf303f0800000000000000
+      internalID: -935627221497740891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_25
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 521
+        width: 108
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb51492cbf7866e0800000000000000
+      internalID: -1844083601285489731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_26
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 522
+        width: 128
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f56ba81bf2768af0800000000000000
+      internalID: -394501494572096011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 165
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e588c23745aeed0800000000000000
+      internalID: -2384000199094149571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_28
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 355
+        width: 171
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dd267184621bf00800000000000000
+      internalID: 1130727072518561106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_29
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 366
+        width: 160
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1119f57b92dc0a780800000000000000
+      internalID: -8673707303261728495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_30
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 353
+        width: 177
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d3be7c965229e30800000000000000
+      internalID: 4508707313207164261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_31
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 342
+        width: 128
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ac2b7b8018502e0800000000000000
+      internalID: -2160178571812615625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_32
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 351
+        width: 111
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b06e0b52b7bc2f0800000000000000
+      internalID: -951531494446855367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_33
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 434
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00bbe303170447b0800000000000000
+      internalID: -5241056288100863990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_34
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 441
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57816bdb7d4f15df0800000000000000
+      internalID: -193104101562247051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_35
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 173
+        width: 140
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72abfada601e62970800000000000000
+      internalID: 8729912346504313383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_36
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 187
+        width: 123
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a0ad424074a4990800000000000000
+      internalID: -7401024954506278326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_37
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 310
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41ae4fcc75272d80800000000000000
+      internalID: -8275604572285787825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 196
+        width: 172
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc027f6b9a3d50f0800000000000000
+      internalID: -1126679892508668726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_39
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 190
+        width: 162
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a22ac2fdf58aa1e0800000000000000
+      internalID: -2185787343388400985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_40
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 188
+        width: 124
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7471d7bba20fab70800000000000000
+      internalID: 8912345124136121471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_41
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 310
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b77bd7fa1f2bceb0800000000000000
+      internalID: -4698609993356970061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_42
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 188
+        width: 120
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8856941748ae40f0800000000000000
+      internalID: -1130781433181874038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_43
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 307
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5f0c2de9abba3d0800000000000000
+      internalID: -3194254319385774661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_44
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 259
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bbbbb6124e14210800000000000000
+      internalID: 1315583398361414518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11
+        width: 146
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a9e40cb92480230800000000000000
+      internalID: 3605204738423822970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_46
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 38
+        width: 148
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5a3ec9997894870800000000000000
+      internalID: 8667608051683141058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_47
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 2
+        width: 128
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b28414ec827d1920800000000000000
+      internalID: 2962650079327191735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_48
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 5
+        width: 154
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4229e9db1e4583950800000000000000
+      internalID: 6428981796597043748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_49
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 5
+        width: 147
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc8e89e30f47c2e0800000000000000
+      internalID: -2105627422550487880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenly spaceships_50
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 5
+        width: 133
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8192a8b2cd1723fb0800000000000000
+      internalID: -4669544673192564456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
