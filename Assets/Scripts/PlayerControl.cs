@@ -20,6 +20,7 @@ public class PlayerControl : MonoBehaviour
     private Vector2 _movementInput;
     private bool isShooting = false;
     private float nextFireTime = 0f;
+    private bool isActive = true;
 
     private void Awake()
     {
@@ -69,11 +70,22 @@ public class PlayerControl : MonoBehaviour
 
     private void OnMove(InputValue inputValue)
     {
+        if (!isActive)
+        {
+            _movementInput = Vector2.zero;
+            return;
+        }
         _movementInput = inputValue.Get<Vector2>();
     }
 
-    void FireProjectile()
+    private void FireProjectile()
     {
+        if (!isActive) return;
         Instantiate(projectilePrefab, Weapon0.position, Weapon0.rotation);
     }
+    private void OnDeath()
+    {
+        isActive = false;
+    }
+
 }
