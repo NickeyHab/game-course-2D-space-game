@@ -6,13 +6,13 @@ public class EnemyHealth : MonoBehaviour
     [SerializeField] float maxHealth = 5f;
     private float health;
     private Animator animator;
-    private ParticleSystem particleSystem;
+    private ParticleSystem particles;
 
     void Start()
     {
         health = maxHealth;
         animator = GetComponent<Animator>();
-        particleSystem = GetComponentInChildren<ParticleSystem>();
+        particles = GetComponentInChildren<ParticleSystem>();
     }
     void OnTriggerEnter2D(Collider2D other)
     {
@@ -32,15 +32,15 @@ public class EnemyHealth : MonoBehaviour
         if (gameObject.CompareTag("Boss"))
         {
             animator.SetTrigger("Death");
-            particleSystem.Play();
+            particles.Play();
             BroadcastMessage("OnDeath");
         }
         else
         {
-            particleSystem.transform.parent = null;
-            particleSystem.Play();
+            particles.transform.parent = null;
+            particles.Play();
             BroadcastMessage("OnDeath");
-            Destroy(particleSystem.gameObject, particleSystem.main.duration + particleSystem.main.startLifetime.constantMax);
+            Destroy(particles.gameObject, particles.main.duration + particles.main.startLifetime.constantMax);
             DestroySelf();
         }
     }

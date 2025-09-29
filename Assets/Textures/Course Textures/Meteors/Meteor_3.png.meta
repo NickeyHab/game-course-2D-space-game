@@ -79,7 +79,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -413,7 +413,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Meteor_3_0: -7178135585306251613
+      Meteor_3_1: 1452362167013477679
+      Meteor_3_10: 201446597627538080
+      Meteor_3_11: 1422880484182681389
+      Meteor_3_2: -5256522316642721127
+      Meteor_3_3: -8008318258551708070
+      Meteor_3_4: -6875902157088932280
+      Meteor_3_5: -3616090916017202744
+      Meteor_3_6: -7003743378241570660
+      Meteor_3_7: 8205904726754883646
+      Meteor_3_8: -6563543147697265989
+      Meteor_3_9: 221795365460514141
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -4,11 +4,11 @@ public class PlayerHealth : MonoBehaviour
 {
     [SerializeField] float maxHealth = 5f;
     private float health;
-    private ParticleSystem particleSystem;
+    private ParticleSystem particles;
     void Start()
     {
         health = maxHealth;
-        particleSystem = GetComponentInChildren<ParticleSystem>();
+        particles = GetComponentInChildren<ParticleSystem>();
     }
 
     void OnTriggerEnter2D(Collider2D other)
@@ -26,10 +26,13 @@ public class PlayerHealth : MonoBehaviour
     }
     private void Death()
     {
-        particleSystem.transform.parent = null;
-        particleSystem.Play();
+        particles.transform.parent = null;
+        particles.Play();
+        Destroy(particles.gameObject, particles.main.duration + particles.main.startLifetime.constantMax);
+
         BroadcastMessage("OnDeath");
-        Destroy(particleSystem.gameObject, particleSystem.main.duration + particleSystem.main.startLifetime.constantMax);
+        GameManager.Instance.RestartOnDeath();
+
         Destroy(gameObject);
     }
 }

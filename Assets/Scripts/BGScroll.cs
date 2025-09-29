@@ -4,14 +4,16 @@ public class BGScroll : MonoBehaviour
 {
     [SerializeField] float scrollSpeed = 0.02f;
     Renderer rend;
+    private float offsetTimer = 0f;
     void Start()
     {
         rend = GetComponent<Renderer>();
+        offsetTimer = 0f;
     }
 
     void Update()
     {
-        float offset = Time.time * scrollSpeed;
-        rend.material.SetTextureOffset("_MainTex", new Vector2(0, offset));
+        offsetTimer += Time.deltaTime * scrollSpeed;
+        rend.material.SetTextureOffset("_MainTex", new Vector2(0, offsetTimer));
     }
 }
