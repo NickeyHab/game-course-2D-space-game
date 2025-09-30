@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavenly bullets_0: -400379377932881788
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

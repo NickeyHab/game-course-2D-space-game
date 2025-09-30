@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Heavenly explosion transparent_0: -2490894042529524020
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

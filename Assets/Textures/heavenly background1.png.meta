@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavenly background1_0: 591847255837708092
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
